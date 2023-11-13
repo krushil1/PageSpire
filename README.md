@@ -14,6 +14,9 @@
 ```
 <img width="auto" height="auto" src="https://i.imgur.com/RtAwp0J.png">
 
+```link
+/login/photo
+```
 <img width="auto" height="auto" src="https://i.imgur.com/9fyUj9L.png">
 
 ```link
