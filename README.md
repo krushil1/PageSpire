@@ -1,3 +1,40 @@
+# Demo
+
+<img width="auto" height="auto" src="https://i.imgur.com/o8gSEQB.png">
+
+```link
+/login
+```
+<img width="auto" height="auto" src="https://i.imgur.com/TWanrFa.png">
+
+<img width="auto" height="auto" src="https://i.imgur.com/3kT29Cr.png">
+ 
+```link
+/login/username
+```
+<img width="auto" height="auto" src="https://i.imgur.com/RtAwp0J.png">
+
+<img width="auto" height="auto" src="https://i.imgur.com/9fyUj9L.png">
+
+```link
+/[username]/edit
+```
+<img width="auto" height="auto" src="https://i.imgur.com/AeMT6ks.png">
+
+<img width="auto" height="auto" src="https://i.imgur.com/scCXUp0.png">
+
+```link
+/[username]/bio
+```
+<img width="auto" height="auto" src="https://i.imgur.com/jKphYgI.png">
+
+```link
+/[username]
+```
+<img width="auto" height="auto" src="https://i.imgur.com/VyPjsvh.png">
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
